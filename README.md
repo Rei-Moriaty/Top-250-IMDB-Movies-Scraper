@@ -39,8 +39,7 @@ Each object of this array contains:
   "star": [
     "Toshirô Mifune",
     "Takashi Shimura",
-    "Keiko Tsushima",
-    "See full cast & crew"
+    "Keiko Tsushima"
   ],
   "poster": "https://m.media-amazon.com/images/M/MV5BODdlYjU1Y2MtMWUxMy00YjJjLTgyMWItNzgzZmZkNTYxNWFkXkEyXkFqcGdeQXVyMTAwMjU1MzA2._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
   "rating": "8.6",
