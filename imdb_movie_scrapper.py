@@ -46,7 +46,8 @@ class Scarper:
             star_list = movie_details_list[2].findAll('a')
             movie['star'] = []
             for star in star_list:
-                movie['star'].append(star.text)
+                if not star.text.__contains__('See full cast & crew'):
+                    movie['star'].append(star.text)
             #extract poster url
             movie['poster'] = movie_details.find('div', {'class' : 'poster'}).find('img')['src']
             #extrcat rating
