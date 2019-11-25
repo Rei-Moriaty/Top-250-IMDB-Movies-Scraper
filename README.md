@@ -39,9 +39,9 @@ Each object of this array contains:
         "Lalit Marathe",
         "Amin Hajee",
         "Charlotte Whitby-Coles",
-         "Yashodeep Nigudkar",
+        "Yashodeep Nigudkar",
         "Ayan Mukherjee",
-         "K.P. Saxena",
+        "K.P. Saxena",
         "Amin Hajee"
     ],
     "star": [
